@@ -1,2 +1,3 @@
 # Matplotlib-projects
-Real-life matplotlib project
+Real-life matplotlib projects 
+Netflix Project 
