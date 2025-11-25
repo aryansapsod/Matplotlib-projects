@@ -1,3 +1,4 @@
 # Matplotlib-projects
 Real-life matplotlib projects 
-Netflix Project 
+# Netflix Project 
+#  Amazon 
