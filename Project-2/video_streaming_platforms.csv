@@ -1,0 +1,75 @@
+,gender,age,profession,income,income_source,platforms,subscription_pay,usage,hours_per_day,device_used,platform_count,device_count,cities
+0,Female,above 30,Professional,Yes,visiting faculty freelancing art classes,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5']",some platforms,monthly,8,['PC'],7,1,indore
+1,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime']",some platforms,daily,6,"['Smart Phones', ' PC']",3,2,indore
+2,Female,18-21,CA Student,Yes,articleship,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar']",all platforms,weekly,1,['Smart Phones'],4,1,bangalore
+3,Male,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime']",all platforms,rarely,1,['TV'],3,1,indore
+4,Female,21-30,Professional,Yes,software developer,"['Youtube', ' Netflix', ' Disney + Hostar']",all platforms,weekly,2,['Smart Phones'],3,1,dublin
+5,Male,18-21,College Student,No,none,"['Youtube', ' Amazon Prime', ' Disney + Hostar']",paid by someone else,weekly,3,['Smart Phones'],3,1,sonipat
+6,Male,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",paid by someone else,weekly,1,"['Smart Phones', ' PC']",5,2,indore
+7,Female,21-30,Professional,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",paid by someone else,weekly,1,"['Smart Phones', ' PC']",5,2,dhar
+8,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Zee5', ' Twitch']",paid by someone else,daily,2,"['Smart Phones', ' PC']",7,2,indore
+9,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' The Viral Fever(TVF)']",all platforms,daily,3,"['Smart Phones', ' TV']",8,2,indore
+10,Female,18-21,College Student,Yes,part time tutor,"['Youtube', ' Netflix']",paid by someone else,weekly,6,['Smart Phones'],2,1,indore
+11,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar']",paid by someone else,daily,3,"['Smart Phones', ' PC']",4,2,indore
+12,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Sony Liv', ' MX Player']",free platforms,rarely,1,['Laptop '],5,1,indore
+13,Male,18-21,College Student,No,none,"['Youtube', ' Netflix']",paid by someone else,rarely,1,"['Tablet', ' TV']",2,2,
+14,Female,18-21,College Student,No,none,['Youtube'],free platforms,daily,1,['Smart Phones'],1,1,shivpuri
+15,Male,18-21,College Student,No,none,"['Youtube', ' Disney + Hostar']",free platforms,daily,3,['Smart Phones'],2,1,indore
+16,Female,18-21,College Student,No,none,['Disney + Hostar'],free platforms,weekly,1,['PC'],1,1,
+17,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' The Viral Fever(TVF)', ' MX Player', ' Airtel Xtreme']",paid by someone else,daily,5,"['Smart Phones', ' TV']",8,2,indore
+18,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' MX Player', ' Airtel Xtreme']",paid by someone else,weekly,4,['Smart Phones'],9,1,lalitpur
+19,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Disney + Hostar', ' JioCInema', ' MX Player', ' Voot']",some platforms,weekly,4,"['Smart Phones', ' PC']",6,2,indore
+20,Male,18-21,College Student,No,none,"['Youtube', ' Amazon Prime', ' JioCInema']",paid by someone else,weekly,2,['Smart Phones'],3,1,indore
+21,Male,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Disney + Hostar', ' Twitch']",some platforms,monthly,1,"['Smart Phones', ' PC']",4,2,bangalore
+22,Male,above 30,Professional,Yes,job,"['Youtube', ' Disney + Hostar', ' MX Player']",all platforms,weekly,1,['Smart Phones'],3,1,indore
+23,Male,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' MX Player']",all platforms,weekly,1,['Smart Phones'],6,1,indore
+24,Male,21-30,College Student,No,none,"['Youtube', ' Disney + Hostar']",free platforms,daily,1,"['Smart Phones', ' PC']",2,2,sagar
+25,Female,21-30,Professional,Yes,teaching,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Voot']",paid by someone else,rarely,1,['Smart Phones'],5,1,indore
+26,Male,above 30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime']",all platforms,daily,1,"['Smart Phones', ' TV']",3,2,dublin
+27,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime']",paid by someone else,daily,2,"['Smart Phones', ' PC']",3,2,indore
+28,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Zee5', ' MX Player', ' Voot']",some platforms,weekly,1,['Smart Phones'],8,1,indore
+29,Male,18-21,College Student,No,none,['Youtube'],free platforms,daily,1,['Smart Phones'],1,1,indore
+30,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Twitch']",paid by someone else,weekly,1,"['Smart Phones', ' PC']",4,2,delhi
+31,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix']",all platforms,daily,5,['Smart Phones'],2,1,dublin
+32,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Disney + Hostar']",paid by someone else,monthly,1,"['Smart Phones', ' PC']",3,2,
+33,Male,above 30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar']",some platforms,daily,3,['Smart Phones'],4,1,dublin
+34,Male,21-30,College Student,No,none,"['Youtube', ' Netflix']",paid by someone else,daily,1,"['Smart Phones', ' PC']",2,2,indore
+35,Female,above 30,Professional,Yes,job,['Youtube'],free platforms,rarely,1,['Smart Phones'],1,1,indore
+36,Male,21-30,College Student,Yes,"internship , stock market","['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' MX Player']",paid by someone else,weekly,4,"['Smart Phones', ' Laptop']",6,2,indore
+37,Female,18-21,Professional,Yes,job,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",paid by someone else,weekly,1,"['Smart Phones', ' PC']",4,2,indore
+38,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' MX Player', ' Blocked sites streaming']",some platforms,daily,3,"['Smart Phones', ' PC']",7,2,indore
+39,Female,21-30,College Student,No,none,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",some platforms,weekly,4,['PC'],4,1,indore
+40,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' MX Player', ' Voot']",some platforms,daily,10,"['Smart Phones', ' TV']",9,2,indore
+41,Male,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar']",paid by someone else,weekly,2,"['Smart Phones', ' PC']",4,2,indore
+42,Male,12-18,School Student,No,none,"['Youtube', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' Voot']",paid by someone else,daily,3,"['Smart Phones', ' TV']",6,2,indore
+43,Female,12-18,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' Voot', ' Airtel Xtreme', ' AppleTV', ' Twitch', ' Alt Balaji']",some platforms,monthly,2,"['Smart Phones', ' Tablet', ' PC', ' TV']",12,4,indore
+44,Male,21-30,Professional,Yes,work,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",all platforms,daily,2,"['Smart Phones', ' PC', ' TV']",5,3,indore
+45,Female,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime']",some platforms,weekly,1,['PC'],3,1,mumbai
+46,Female,21-30,Professional,Yes,freelancing,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv']",paid by someone else,daily,2,"['Smart Phones', ' PC', ' TV']",6,3,
+47,Female,18-21,College Student,Yes,freelancing,"['Youtube', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' Alt Balaji']",all platforms,daily,2,['TV'],6,1,indore
+48,Female,21-30,Professional,Yes,job - data scientist,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5']",all platforms,daily,1,['TV'],6,1,pune
+49,Female,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",all platforms,weekly,3,"['Smart Phones', ' PC']",5,2,delhi
+50,Female,18-21,College Student,No,none,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' Airtel Xtreme', ' AppleTV']",all platforms,monthly,2,"['Smart Phones', ' PC']",5,2,indore
+51,Male,18-21,College Student,Yes,none,['Youtube'],free platforms,daily,2,"['Smart Phones', ' PC', ' TV']",1,3,indore
+52,Male,21-30,Professional,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema']",paid by someone else,monthly,1,['PC'],5,1,indore
+53,Male,21-30,College Student,No,none,"['Youtube', ' Netflix', ' Disney + Hostar', ' JioCInema', ' Zee5']",all platforms,weekly,4,"['Smart Phones', ' Tablet']",5,2,indore
+54,Female,21-30,College Student,Yes,part time jobs,"['Youtube', ' Netflix', ' Amazon Prime']",paid by someone else,daily,2,"['Smart Phones', ' PC']",3,2,boston
+55,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' MX Player']",all platforms,weekly,1,['PC'],6,1,indore
+56,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv']",paid by someone else,rarely,1,['Smart Phones'],6,1,indore
+57,Female,18-21,College Student,No,none,"['Youtube', ' MX Player']",free platforms,daily,6,"['Smart Phones', ' PC']",2,2,indore
+58,Female,18-21,College Student,No,none,"['Youtube', ' Disney + Hostar']",paid by someone else,daily,2,"['Smart Phones', ' TV']",2,2,indore
+59,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5']",paid by someone else,daily,4,"['Smart Phones', ' PC', ' TV']",7,3,indore
+60,Male,18-21,College Student,No,none,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv']",some platforms,daily,2,"['PC', ' TV']",5,2,indore
+61,Male,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5']",some platforms,daily,6,"['Smart Phones', ' TV']",7,2,
+62,Female,21-30,Professional,Yes,none,"['Youtube', ' JioCInema', ' The Viral Fever(TVF)', ' MX Player', ' Amazon Mini TV']",free platforms,weekly,2,['Smart Phones'],5,1,pune
+63,Female,21-30,Professional,Yes,job,['Youtube'],free platforms,daily,2,"['Smart Phones', ' PC']",1,2,indore
+64,Male,21-30,Professional,Yes,nominal stipend,"['Youtube', ' Netflix', ' Disney + Hostar', ' JioCInema', ' Sony Liv']",all platforms,daily,2,"['Smart Phones', ' TV', ' Laptop']",5,3,gurgaon
+65,Male,21-30,Aspirant,No,none,"['Youtube', ' Netflix', ' Disney + Hostar', ' JioCInema']",paid by someone else,daily,4,['Smart Phones'],4,1,jaipur
+66,Male,21-30,Professional,Yes,job,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' The Viral Fever(TVF)']",paid by someone else,daily,3,['Smart Phones'],6,1,delhi
+67,Male,18-21,School Student,No,none,['Youtube'],free platforms,daily,3,"['Smart Phones', ' TV']",1,2,bangalore
+68,Male,21-30,Professional,Yes,jobs and business,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Zee5', ' MX Player', ' Voot']",some platforms,weekly,2,"['Smart Phones', ' Tablet', ' PC']",8,3,sidhi
+69,Male,18-21,College Student,No,none,['Youtube'],free platforms,daily,2,"['Smart Phones', ' PC']",1,2,indore
+70,Male,18-21,College Student,No,none,"['Youtube', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' MX Player']",some platforms,monthly,1,"['Smart Phones', ' PC']",7,2,indore
+71,Female,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' AppleTV']",all platforms,weekly,2,['PC'],5,1,
+72,Female,12-18,College Student,No,none,['Youtube'],all platforms,rarely,2,['Smart Phones'],1,1,indore
+73,Male,18-21,College Student,No,none,"['Youtube', ' Netflix', ' Amazon Prime', ' Disney + Hostar', ' JioCInema', ' Sony Liv', ' Zee5', ' MX Player']",paid by someone else,daily,2,"['Smart Phones', ' Tablet', ' PC', ' TV']",8,4,indore
